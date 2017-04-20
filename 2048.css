@@ -7,7 +7,7 @@ header{
 
 header h1{
     font-family:Arial;
-    font-size:40px;
+    font-size:30px;
     font-weight:bold;
     margin:0 auto;
 }
@@ -16,8 +16,8 @@ header #newgamebutton{
     display:block;
     margin:10px auto;
 
-    width:100px;
-    padding:10px 10px;
+    width:80px;
+    padding:5px 10px;
     background-color:#8f7a66;
 
     font-family:Arial;
